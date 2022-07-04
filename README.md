@@ -1,3 +1,3 @@
-# android-projects
+# News-Application-android-project
 
 Requirements : android studio
